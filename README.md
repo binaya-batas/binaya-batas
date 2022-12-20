@@ -2,6 +2,7 @@
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on React and Nodejs
+- 📧 batas.binaya@gmail.com
 
 
 <!---
